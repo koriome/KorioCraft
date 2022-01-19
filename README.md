@@ -13,7 +13,7 @@ well, there's no longer a need to imagine cause koriocraft is here to save the d
 
  
 
-this modpack mainly adds more structures to the map that you can find, a helluva lot of quality-of-life improvements, some weird black magic here and there, and a cool ass piece of broccoli on the main menu. (there's more but i wouldn't care to explain)
+this modpack mainly adds more structures to the map that you can find, a helluva lot of quality-of-life improvements, some weird black magic here and there, and a cool ass piece of broccoli on the main menu. ([there's more but i wouldn't care to explain](/presentation/features.md))
 
  
 
