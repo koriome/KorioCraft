@@ -23,6 +23,7 @@ i kinda just wanted a modpack that catered to my playstyle while still having th
 
 this is also only for 1.18.1 fabric rn, i do not like forge whatsoever LMAOOOOO
 
+![the super cool title screem](/presentation/title.png)
 
 here are links to every mod used: (most of these are not curseforge links cause i prefer modrinth)
 
