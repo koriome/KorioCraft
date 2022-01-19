@@ -1,0 +1,14 @@
+.minecraft/coremods
+.minecraft/logs
+.minecraft/moddata
+.minecraft/options.txt
+.minecraft/patchouli_books
+.minecraft/patchouli_data.json
+.minecraft/realms_persistence.json
+.minecraft/resourcepacks
+.minecraft/saves
+.minecraft/screenshots
+.minecraft/server-resource-packs
+.minecraft/shaderpacks
+.minecraft/texturepacks
+.minecraft/usercache.json
