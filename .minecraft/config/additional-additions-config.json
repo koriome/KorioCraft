@@ -19,7 +19,7 @@
   "Potions": true,
   "WateringCan": true,
   "CopperPatina": true,
-  "Ropes": false,
+  "Ropes": true,
   "TridentShard": true,
   "ShipwreckSpyglassLoot": true,
   "DepthMeter": true,
